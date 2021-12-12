@@ -1,38 +1,175 @@
-.App {
+Body{
+  background-color: darkgray;
+}
+#fondo {
+  height: 250px;
+  width: 100%;
+  text-align: center center;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.intro{
+  background-image: url( https://www.wallpaperkiss.com/wimg/b/112-1123213_big.jpg); 
+}
+
+.letrasIntro{
+  color: azure;
+}
+
+.fotoPerfil{
+  height: 220px;
+  width: 220px;
+  border-radius: 50%;
+  transition: 300ms;
+  position: relative;
+}
+
+.fotoPerfil:hover{
+  transform: scale(1.15);
+}
+
+.presentacion{
+  background-color: whitesmoke;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subtitulo{
+  text-align: center;
+  background-color: #12BED6;
+  border-radius: 10%;
+  border-top-right-radius: 0%;
+  border-top-left-radius: 0%;
+}
+
+.fondoSubtitulo{
+  background-color: whitesmoke;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.espacio{
+  height: 50px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.fondoContacto{
+  background-color: whitesmoke;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.imagenContacto{
+  height: 70px;
+  width: 70px;
+  transition: 300ms;
+  position: relative;
+  width: 70%;
+  height: 70%;
+}
+
+.imagenContacto:hover{
+  transform: scale(1.30);
+}
+
+.subtitulo2{
+  background-color: #7FCDD8;
+  border-color: #7FCDD8;
+  border-width: 3px;
+  border-style: solid
+}
+
+.subtitulo3{
+  background-color: white;
+  border-color: #7FCDD8;
+  border-width: 3px;
+  border-style: solid;
+}
+
+.logo{
+  height: 200px;
+  width: 200px;
+  max-width: 70%;
+}
+
+.ubicacion{
+  border-radius: 15%;
+  width: 70%;
+}
+
+.conocimientos{
+  height: 120px;
+  width: 500px;
+  width: 10%;
+  place-items: center;
+  border-color: #7FCDD8;
+  border-width: 3px;
+  border-style: solid;  
+  border-radius: 5%;
+  background-color: white;
+}
+
+.imagenConocimiento{
+  height: 75px;
+  width: 100px;
+  border-radius: 50%;
+  float: left;
+  margin-top: 20px;
+}
+
+.tabla{
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  max-width: 1000px;
+}
+
+.menu{
+  font-size: 100%;
+  list-style: none;
+  font-family: Arial, Helvetica;
+  background-color: #005F6C;
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.menu li a{
+  text-decoration: none;
   color: white;
+  padding: 15px;
+  display: flex;
 }
 
-.App-link {
-  color: #61dafb;
+.menu li {
+  display: inline-block;
+  text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.menu li a:hover{
+  background: #001F6C;
+}
+
+.CVfoto{
+  border-radius: 10%;
+  height: 100px;
+  width: 50px;
+  height: 100%;
+  width: 50%;
+  
+}
+
+.materias{
+  height: 100px;
+  width: 50px;
+  height: 100%;
+  width: 50%;
+}
+
+.estilo {
+  font-size: calc(1em + 1vw) 
 }

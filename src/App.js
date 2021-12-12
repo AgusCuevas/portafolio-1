@@ -1,23 +1,38 @@
 import logo from './logo.svg';
-import './App.css';
+import Button from '@material-ui/core/Button';
+import Introduccion from './components/Introduccion'
+import Contacto from './components/Contacto'
+import Estudio from './components/Estudio'
+import Conocimientos from './components/Conocimientos'
+import BarraNavegacion from './components/BarraNavegacion'
+import CV from './components/CV'
+import Carrera from './components/Carrera'
+import './App.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div class="fondoSubtitulo">
+      <div>
+        <BarraNavegacion/>
+      </div>
+      <div class='row'>
+        <Introduccion/>
+      </div>
+      <div class='row'>
+        <Estudio/>
+      </div>
+      <div class='row'>
+        <Carrera/>
+      </div>
+      <div class='row'>
+        <Conocimientos/>
+      </div>
+      <div class='row'>
+        <CV/>
+      </div>
+      <div class='row'>
+        <Contacto/>
+      </div>
     </div>
   );
 }
