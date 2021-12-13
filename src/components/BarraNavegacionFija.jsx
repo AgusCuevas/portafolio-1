@@ -4,8 +4,8 @@ import '../App.css';
 
 function barraNavegacion() {
     return (
-        <div>
-            <div class='menu'>
+        <div id="inicio">
+            <div class='menuu'>
                 <li><a href='#inicio'>Inicio</a></li>
                 <li><a href='#presentacion'>Sobre mi</a></li>
                 <li><a href='#estudio'>Estudios</a></li>

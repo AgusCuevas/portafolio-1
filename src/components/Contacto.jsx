@@ -7,7 +7,7 @@ function introduccion() {
     <div>
         <div class="fondoSubtitulo"> 
             <div class="subtitulo" >
-                <h1 class="display-6">Contacto</h1>
+                <h1 class="display-4">Contacto</h1>
             </div>
         </div>
         <div class='fondoSubtitulo'>

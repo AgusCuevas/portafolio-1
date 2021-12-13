@@ -10,7 +10,7 @@ function introduccion() {
     <div>
         <div class="fondoSubtitulo"> 
             <div class="subtitulo" >
-                <h1 class="display-6">Estudios</h1>
+                <h1 class="display-4">Estudios</h1>
             </div>
         </div>
         <div class='espacio'></div>

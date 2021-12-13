@@ -22,14 +22,17 @@ function introduccion() {
 
         <div class="fondoSubtitulo"> 
             <div class="subtitulo" >
-                <h1 class="display-6">Sobre mi</h1>
+                <h1 class="display-4">Sobre mi</h1>
             </div>
 
             <div class='objetivo display-6'>
                 <div class='espacio'></div>
                 <div>
-                    Acualmente me encuentro cusarndo la carrera "Tecnicaruta en informatica", en la universidad nacional de Hurlingham.
-                    Estoy cursando mi 3er ano de la carrera y me gustaria conseguir mi primer empleo en el mundo de la tecnologia
+                    <p>Edad: 21</p>
+                    <p>Nacionalidad: Argentino</p>
+                    <p>Localidad: Ituzaingo</p>
+                    Actualmente me encuentro cursando la carrera "Tecnicaruta Universitaria en informatica", en la Universidad Nacional de Hurlingham.
+                    Estoy cursando mi 3er año de la carrera y me gustaria conseguir mi primer empleo en el mundo de la tecnologia
                 </div>
                 <div class='espacio' id='estudio'></div>
             </div>

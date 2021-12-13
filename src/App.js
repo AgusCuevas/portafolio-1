@@ -5,6 +5,8 @@ import Contacto from './components/Contacto'
 import Estudio from './components/Estudio'
 import Conocimientos from './components/Conocimientos'
 import BarraNavegacion from './components/BarraNavegacion'
+import BarraNavegacionFija from './components/BarraNavegacionFija'
+import Proyectos from './components/Proyectos'
 import CV from './components/CV'
 import Carrera from './components/Carrera'
 import './App.css'
@@ -12,6 +14,9 @@ import './App.css'
 function App() {
   return (
     <div class="fondoSubtitulo">
+      <div>
+        <BarraNavegacionFija/>
+      </div>
       <div>
         <BarraNavegacion/>
       </div>
@@ -26,6 +31,9 @@ function App() {
       </div>
       <div class='row'>
         <Conocimientos/>
+      </div>
+      <div class="row">
+        <Proyectos/>
       </div>
       <div class='row'>
         <CV/>

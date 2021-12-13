@@ -8,7 +8,7 @@ function carrera() {
     <div>
         <div class="fondoSubtitulo"> 
             <div class="subtitulo" >
-                <h1 class="display-6">Carrera</h1>
+                <h1 class="display-4">Carrera</h1>
             </div>
         </div>
         <div class='espacio'></div>

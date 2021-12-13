@@ -9,7 +9,7 @@ function CV() {
     <div>
         <div class="fondoSubtitulo"> 
             <div class="subtitulo" >
-                <h1 class="display-6">CV</h1>
+                <h1 class="display-4">CV</h1>
             </div>
         </div>
         <div class='espacio'></div>

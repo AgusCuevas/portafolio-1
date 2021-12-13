@@ -7,7 +7,7 @@ function conocientos() {
         <div>
             <div class="fondoSubtitulo"> 
                 <div class="subtitulo">
-                    <h1 class="display-6">Conocimientos</h1>
+                    <h1 class="display-4">Conocimientos</h1>
                 </div>
             </div>
             <div class='espacio'></div>
@@ -41,7 +41,7 @@ function conocientos() {
                     <div class="col border border-info conocimientos "><img src='https://img2.freepng.es/20190302/oti/kisspng-application-programming-interface-computer-icons-a-update-native-postman-on-ubuntu-calliditasblog-5c7b404490d035.8226799515515812525932.jpg' class='imagenConocimiento'/>Postman</div>
                 </div>
             </div>
-            <div class='espacio' id='CV'></div>  
+            <div class='espacio' id='proyectos'></div>  
         </div>       
     )
 }
