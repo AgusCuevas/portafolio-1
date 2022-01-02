@@ -80,6 +80,23 @@ Body{
   transform: scale(1.30);
 }
 
+.ubicacion:hover{
+  transform: scale(1.10);
+}
+
+.clickAqui:hover{
+  transform: scale(1.10);
+}
+
+.imgProyecto:hover{
+  transform: scale(1.10);
+}
+
+.imgProyecto{
+  border-radius: 5%;
+  transition: 300ms;
+}
+
 .subtitulo2{
   background-color: #7FCDD8;
   border-color: #7FCDD8;
@@ -103,6 +120,7 @@ Body{
 .ubicacion{
   border-radius: 15%;
   width: 70%;
+  transition: 300ms;
 }
 
 .conocimientos{
@@ -302,4 +320,5 @@ Body{
 
 .clickAqui{
   width: 25%;
+  transition: 300ms;
 }

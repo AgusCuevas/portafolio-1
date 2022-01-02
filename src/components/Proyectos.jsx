@@ -15,9 +15,9 @@ function proyectos() {
         </div>
         <div class="espacio"></div>
             <ul class="galeria">    
-            <li><a href="#img1"><img src={EquiposDeFutbol}/></a></li>
-            <li><a href="#img2"><img src={climaApp}/></a></li>
-            <li><a href="#img3"><img src={MercaditoLibre}/></a></li>
+            <li><a href="#img1"><img src={EquiposDeFutbol} className="imgProyecto"/></a></li>
+            <li><a href="#img2"><img src={climaApp} className="imgProyecto"/></a></li>
+            <li><a href="#img3"><img src={MercaditoLibre} className="imgProyecto"/></a></li>
             </ul>
 
         <div class="modal" id="img1">

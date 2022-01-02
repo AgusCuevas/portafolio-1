@@ -31,7 +31,7 @@ function introduccion() {
                     <p>Edad: 21</p>
                     <p>Nacionalidad: Argentino</p>
                     <p>Localidad: Ituzaingo</p>
-                    Actualmente me encuentro cursando la carrera "Tecnicaruta Universitaria en informatica", en la Universidad Nacional de Hurlingham.
+                    Actualmente me encuentro cursando la carrera "Tecnicatura Universitaria en informatica", en la Universidad Nacional de Hurlingham.
                     Estoy cursando mi 3er año de la carrera y me gustaria conseguir mi primer empleo en el mundo de la tecnologia
                 </div>
                 <div class='espacio' id='estudio'></div>
