@@ -23,7 +23,7 @@ function introduccion() {
                     <div class="display-6">
                         <div class="subtitulo3">
                         <div class='espacio'></div>
-                            Instituto Nuestra Senora de Lourdes
+                            Instituto Nuestra Señora de Lourdes
                             <div class='espacio'></div>
                             <img src='https://institutolourdes.net/assets/images/logo-lourdes.jpg' class='logo'></img>
                             <div class='espacio'></div>

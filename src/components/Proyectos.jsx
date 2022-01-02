@@ -27,7 +27,8 @@ function proyectos() {
                 <a href="#img1"><img src={EquiposDeFutbol} class='imgModal'/></a>
                 <a href="#img2">&#62;</a>
                 <div class='descripcion'>
-                    rdeghetrherth
+                    Esta aplicacion nos muestra equipos de futbol de todo el mundo, al azar, con su logo, nombre y jugadores.
+                    <div><a class='letraFoto' href="https://optimistic-brahmagupta-04bf73.netlify.app"><img class='clickAqui' src="https://www.dentegra.com.mx/wp-content/uploads/2018/12/boton-click-aqui.png"></img></a></div>
                     <div><a href="#proyectos"><img class='imgCerrar' src='https://www.freeiconspng.com/thumbs/close-button-png/black-circle-close-button-png-5.png'/></a></div>
                 </div>
                 
@@ -41,7 +42,8 @@ function proyectos() {
                 <a href="#img2"><img src={climaApp} class='imgModal'/></a>
                 <a href="#img3">&#62;</a>
                 <div class='descripcion'>
-                    rdeghetrherth
+                    En esta aplicacion podemos ver como esta el clima en cualquier lugar del mundo. 
+                    <div><a class='letraFoto' href="https://gifted-curran-285740.netlify.app/"><img class='clickAqui' src="https://www.dentegra.com.mx/wp-content/uploads/2018/12/boton-click-aqui.png"></img></a></div>
                     <div><a href="#proyectos"><img class='imgCerrar' src='https://www.freeiconspng.com/thumbs/close-button-png/black-circle-close-button-png-5.png'/></a></div>
                 </div>
             </div>
@@ -54,7 +56,8 @@ function proyectos() {
                 <a href="#img3"><img src={MercaditoLibre} class='imgModal'/></a>
                 <a href="#img1">&#62;</a>
                 <div class='descripcion'>
-                    rdeghetrherth
+                    Con esta aplicacion podemos buscar productos por su nombre y agregarlos al carrito. Tambien podemos eliminar los productos del carrito
+                    <div><a class='letraFoto' href="https://vibrant-curie-4be795.netlify.app"><img class='clickAqui' src="https://www.dentegra.com.mx/wp-content/uploads/2018/12/boton-click-aqui.png"></img></a></div>
                     <div><a href="#proyectos"><img class='imgCerrar' src='https://www.freeiconspng.com/thumbs/close-button-png/black-circle-close-button-png-5.png'/></a></div>
                 </div>
             </div>

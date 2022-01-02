@@ -20,6 +20,12 @@ Body{
   color: azure;
 }
 
+.letrasFoto{
+  color: #001F6C;
+  display: inline-block;
+  position: relative;
+}
+
 .fotoPerfil{
   height: 220px;
   width: 220px;
@@ -292,4 +298,8 @@ Body{
 	padding:0px;
 	justify-content: center;
 	align-items: center;
+}
+
+.clickAqui{
+  width: 25%;
 }
